@@ -1,0 +1,20 @@
+# editor specific files
+.idea/
+out/
+*.iml
+*.iws
+
+## Java specific files
+# compiled class files
+*.class
+
+# log files
+*.log
+
+# package files
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*<Paste>
